@@ -1,2 +1,0 @@
-# Rrail
-Railway Management System
